@@ -1,0 +1,19 @@
+{
+  "name": "buddy-pet",
+  "version": "0.1.0",
+  "description": "A small pixel-art robot above the prompt that reacts to what Claude is doing, with a dashboard of context, session cost and rate limits.",
+  "author": {
+    "name": "Coderium",
+    "email": "ganjardbc@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "pet",
+    "status",
+    "dashboard",
+    "context",
+    "cost",
+    "terminal"
+  ],
+  "icon": ".claude-plugin/icon.png"
+}

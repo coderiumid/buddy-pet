@@ -1,0 +1,21 @@
+{
+  "name": "buddy-pet",
+  "version": "0.1.0",
+  "description": "A small pixel-art robot above the prompt that reacts to what Claude is doing, with a dashboard of context, session cost and rate limits.",
+  "private": true,
+  "license": "MIT",
+  "author": "Coderium <coderium.id@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderiumid/buddy-pet.git"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "validate": "claude plugin validate .",
+    "test": "claude plugin test .",
+    "check": "npm run typecheck && npm run validate && npm test"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "buddy-pet",
+  "owner": { "name": "Coderium" },
+  "plugins": [
+    {
+      "name": "buddy-pet",
+      "source": "./",
+      "description": "A small pixel-art robot above the prompt that reacts to what Claude is doing, with a dashboard of context, session cost and rate limits."
+    }
+  ]
+}
