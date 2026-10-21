@@ -29,13 +29,13 @@ A small pixel-art robot that lives above the Claude Code prompt. It reacts to wh
 From a marketplace, at the prompt of a Claude Code session (answer `y` to add the marketplace, then pick a scope):
 
 ```
-/plugin install buddy-pet --marketplace ganjardbc/buddy-pet
+/plugin install buddy-pet --marketplace coderiumid/buddy-pet
 ```
 
 Or from a shell:
 
 ```sh
-claude plugin install buddy-pet --marketplace ganjardbc/buddy-pet
+claude plugin install buddy-pet --marketplace coderiumid/buddy-pet
 ```
 
 From a clone of this repository, to try it or to work on it:
